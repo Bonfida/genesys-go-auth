@@ -11,7 +11,7 @@ This tutorial explains how to use [Cloudflare workers](https://workers.cloudflar
 <h2 align="center">Genesys Go credentials</h2>
 <br />
 
-Once you have your `client_id` and `secret` you will to generate your base64 encoded token as below:
+Once you have your `client_id` and `secret` you will have to generate your base64 encoded token as below:
 
 ```js
 > btoa(`${client_id}:${secret}`);
