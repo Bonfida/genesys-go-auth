@@ -3,7 +3,23 @@
 <p align="center">
 <img width="250" src="https://ftx.com/static/media/fida.ce20eedf.svg"/>
 </p>
+<p align="center">
+<a href="https://twitter.com/bonfida">
+<img src="https://img.shields.io/twitter/url?label=Bonfida&style=social&url=https%3A%2F%2Ftwitter.com%2Fbonfida">
+</a>
+</p>
+
 <br />
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
+
+<p align="center">
+<img width="90%" src="assets/overview.png" />
+</p>
+<br/>
 
 This tutorial explains how to use [Cloudflare workers](https://workers.cloudflare.com/) to set up [OAuth for Genesys Go RPC endpoints](https://genesysgo.medium.com/a-primer-to-genesysgo-network-auth-a3c678a9dc2a).
 
